@@ -21,11 +21,11 @@ This Python application calculates the maximum number of rebars possible in each
 
 You can download the executable file for Windows by clicking the button below:
 
-[![Download EXE](https://img.shields.io/badge/Download-EXE-blue)](https://github.com/alinadimm/Rebar-Calculator/raw/main/Column_Rebar_Calculator.exe)
+[![Download EXE](https://img.shields.io/badge/Download-EXE-blue)](https://raw.githubusercontent.com/alinadimm/Rebar_Calculator/main/Column_Rebar_Calculator.exe)
 
 ## Screenshot
 
-<img src="https://github.com/alinadimm/Rebar-Calculator/raw/main/rebar_calculator_screenshot.jpg" alt="Rebar Calculator GUI Screenshot" width="400">
+<img src="https://github.com/alinadimm/Rebar_Calculator/blob/main/rebar_calculator_screenshot.jpg" alt="Rebar Calculator GUI Screenshot" width="400">
 
 
 
